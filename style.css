@@ -1,25 +1,92 @@
+body{
+	background:white;
+	font-family: "Segoe UI Light",serif}
 
-<style type="text/css">
-body {
-			background-image: url(C:/Users/USER/Downloads/gg.jpg);
+.main{
+	
+	        color: black;
+	        background :black; 
+			background-size: 100% 100%;
+			background-repeat: no-repeat;
+			padding:15px;
+			outline: none;
+				border: none;
 			
-			background-size: 100% 100%;
-			background-repeat: no-repeat;
+			
+			}
+
+			#name{
+				color: white;
+				background: black;
+				outline: none;
+				border: none;
+			}
+			#id{
+color: black;
+	background: grey;
+	outline: none;
+	border: none;
 				
+
 			}
-		.main{
-			color: red;
-			background-image: url(C:/Users/USER/Downloads/gg.jpg); 
+.de{
+			color: black;
+			background :#73C6B6  ; 
 			background-size: 100% 100%;
 			background-repeat: no-repeat;
-			padding: 100px 200px;
-			}
-			#intro{
-				color: blue;
-				font-family: "Times New Roman",Times,serif;
-			}
-			i,b{
-				color: green;
-			}
-	</style>
-</body>
+			padding: 10px;
+
+
+			
+						}
+
+
+.new{
+	color: black;
+			margin-right: 500px;
+			background :white; 
+			background-size: 100% 100%;
+			background-repeat: no-repeat
+			margin-right:60px;
+			
+			margin-left: 15px;
+}
+#intro{
+	margin-top: -210px;
+	margin-left: 800px;
+}
+#odd{
+
+	margin-top: -10px;
+	margin-left: 820px;
+	text-decoration: none;
+}
+.even{
+	margin-top: -80px;
+	margin-left: 420px;
+}
+#div{
+	color: white;
+	border: none;
+	margin-left: 420px;
+	border-radius: 10px;
+	padding:10px;
+	background: green;
+	outline: none;
+}
+  .prime{
+  	margin-top: 20px;
+  color: grey;
+   background: black;
+	 padding: 10px;       
+
+  }
+
+  .now{
+margin-top: -35px;
+  color: grey;
+   background: black;
+	 padding: 5px;
+  }
+			
+		
