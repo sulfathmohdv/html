@@ -1,98 +1,58 @@
 body{
-	background: url("C:/Users/USER/Downloads/dark-wood.jpg");
-	font-family: "California FB",serif;
-	/*width: 100%;*/
-	margin-left: 15%;
-	margin-right: 15%;
-
-}
-.main{
-	/*margin-left: 200px;*/
-
-}
-a:hover {
-  background-color: lightgrey;
-}
-.active{
-  color:black;
-  text-decoration: none;
-}
-/*a:link,a:visited{
+	background:url("C:/Users/USER/Downloads/background.svg");
+	background-repeat: no-repeat;
+	background-size: 62%;
+	background-position: right;
+	background-attachment: fixed;
 	text-decoration: none;
-	color: white;
-}
-a:hover,a:visited{
-	color: black;
-}*/
-.de{
-	text-align: left;
-	background: grey;
-	color: none;
-	margin-top: -5px;
-	padding: 5px;
+	}
+
+.img{
+
 	
+	margin-left: 105px;
+	color: #6C7C83;
+	font-family:"Calibri",serif; 
+	font-size: 35px;
+	}
+.main{
+	color: grey;
+	font-family:"Calibri",serif;
+	font-size: 25px;
+	margin-left: 105px;
+	margin-top: 110px;
+	 }
+::placeholder {
+  color: #C1CFC6;
+  opacity: 1; 
 }
 
-
-#id{
-	color: black;
-	background: grey;
-	outline: none;
-	border: none;
-}
 #name{
-	color: white;
-	background: grey;
+
+	width: 220px;
+	padding:10px;
 	outline: none;
-	border: none;
-}
-.now{
-	width: 100%;
+	margin: 10px;
+	border-radius: 5px;
+	border: 1px solid #D2DADE;
+	margin-left: 105px;
+	 }
+#id{
+	width: 100px;
+	color: grey;
+	border: 1px solid #D2DADE;
+	padding:10px 20px;
+	outline: none;
+	margin: 20px;
+	border-radius: 5px;
 	background: white;
-	
-	display: inline-block;
-}
-
-
-.a{
-	padding: 10px;
-	float: left;
-	
-}
-.b{
-	margin-right: 250px;
-}
-
-
-.c{
-	margin-top: -200px;
-	float: right;
+	margin-left: 1px;
+   }
+a{
+	color: #36E16C;
+	text-decoration: none;
+	font-family:"Calibri",serif;
+	font-size: 20px;
+	margin-left: 105px;
 	}
-.next{
-	width: 100%;
-	background: white;
-	
-	display: inline-block;
-}
 
-.d{
-	padding: 10px;
-	float: left;
-}
-.e{
-	margin-right: 250px;
-}
-
-.f{
-
-	margin-top: -170px;
-	float: right;
-	}
-.footer{
-	padding: 1px;
-	background: grey;
-	color:white;
-	margin-top: -5px;
-	
-}
-	
