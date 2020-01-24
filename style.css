@@ -1,43 +1,25 @@
-body{
-	background: white;
-	width:100%;
-	font-family: "Helvetica Neue",sans-serif;
-	}
-	
-#la:hover{
-	color: grey;
-}
-#la{
-	font-family: "Helvetica Neue",sans-serif;
-	margin-left: 20%;
-	font-size: x-small;
-	text-decoration: none;
 
-}
-#lb{
-	/*font-family: "Helvetica Neue",sans-serif;*/
-	
-	margin-left: 20px;
-	font-size: x-small;
-	text-decoration: none;
-}
-#ab{
-	font-family: "Helvetica Neue",sans-serif;
-	margin-left: 20%;
-	font-size: x-small;
-	text-decoration: none;
-}
-
-#b{
-	font-family: "Helvetica Neue",sans-serif;
-	margin-left: 20px;
-	font-size: x-small;
-	text-decoration: none;
-}
-#c{
-	color: grey;
-	font-family: "Helvetica Neue",sans-serif;
-	margin-left: 20%;
-	font-size: x-small;
-	text-decoration: none;
-}
+<style type="text/css">
+body {
+			background-image: url(C:/Users/USER/Downloads/gg.jpg);
+			
+			background-size: 100% 100%;
+			background-repeat: no-repeat;
+				
+			}
+		.main{
+			color: red;
+			background-image: url(C:/Users/USER/Downloads/gg.jpg); 
+			background-size: 100% 100%;
+			background-repeat: no-repeat;
+			padding: 100px 200px;
+			}
+			#intro{
+				color: blue;
+				font-family: "Times New Roman",Times,serif;
+			}
+			i,b{
+				color: green;
+			}
+	</style>
+</body>
