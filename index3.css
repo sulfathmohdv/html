@@ -1,0 +1,17 @@
+body{
+	background: white;
+}
+.top{
+
+	width: 100%;
+	margin-left: 20%;
+	font-size: small;
+}
+#b{
+	margin-left: 40%;
+	color: white;
+	background: black;
+	outline: none;
+	border: none;
+	
+}
