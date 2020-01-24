@@ -1,92 +1,98 @@
 body{
-	background:white;
-	font-family: "Segoe UI Light",serif}
+	background: url("C:/Users/USER/Downloads/dark-wood.jpg");
+	font-family: "California FB",serif;
+	/*width: 100%;*/
+	margin-left: 15%;
+	margin-right: 15%;
 
+}
 .main{
-	
-	        color: black;
-	        background :black; 
-			background-size: 100% 100%;
-			background-repeat: no-repeat;
-			padding:15px;
-			outline: none;
-				border: none;
-			
-			
-			}
+	/*margin-left: 200px;*/
 
-			#name{
-				color: white;
-				background: black;
-				outline: none;
-				border: none;
-			}
-			#id{
-color: black;
+}
+a:hover {
+  background-color: lightgrey;
+}
+.active{
+  color:black;
+  text-decoration: none;
+}
+/*a:link,a:visited{
+	text-decoration: none;
+	color: white;
+}
+a:hover,a:visited{
+	color: black;
+}*/
+.de{
+	text-align: left;
+	background: grey;
+	color: none;
+	margin-top: -5px;
+	padding: 5px;
+	
+}
+
+
+#id{
+	color: black;
 	background: grey;
 	outline: none;
 	border: none;
-				
-
-			}
-.de{
-			color: black;
-			background :#73C6B6  ; 
-			background-size: 100% 100%;
-			background-repeat: no-repeat;
-			padding: 10px;
-
-
-			
-						}
-
-
-.new{
-	color: black;
-			margin-right: 500px;
-			background :white; 
-			background-size: 100% 100%;
-			background-repeat: no-repeat
-			margin-right:60px;
-			
-			margin-left: 15px;
 }
-#intro{
-	margin-top: -210px;
-	margin-left: 800px;
-}
-#odd{
-
-	margin-top: -10px;
-	margin-left: 820px;
-	text-decoration: none;
-}
-.even{
-	margin-top: -80px;
-	margin-left: 420px;
-}
-#div{
+#name{
 	color: white;
-	border: none;
-	margin-left: 420px;
-	border-radius: 10px;
-	padding:10px;
-	background: green;
+	background: grey;
 	outline: none;
+	border: none;
 }
-  .prime{
-  	margin-top: 20px;
-  color: grey;
-   background: black;
-	 padding: 10px;       
+.now{
+	width: 100%;
+	background: white;
+	
+	display: inline-block;
+}
 
-  }
 
-  .now{
-margin-top: -35px;
-  color: grey;
-   background: black;
-	 padding: 5px;
-  }
-			
-		
+.a{
+	padding: 10px;
+	float: left;
+	
+}
+.b{
+	margin-right: 250px;
+}
+
+
+.c{
+	margin-top: -200px;
+	float: right;
+	}
+.next{
+	width: 100%;
+	background: white;
+	
+	display: inline-block;
+}
+
+.d{
+	padding: 10px;
+	float: left;
+}
+.e{
+	margin-right: 250px;
+}
+
+.f{
+
+	margin-top: -170px;
+	float: right;
+	}
+.footer{
+	padding: 1px;
+	background: grey;
+	color:white;
+	margin-top: -5px;
+	
+}
+	
