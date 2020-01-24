@@ -1,9 +1,24 @@
-body {
-			background-image: url("C:/Users/USER/Downloads/River.jpg");
+body{
+	background-image:url("C:/Users/USER/Downloads/River.jpg");
+	background-repeat: no-repeat;
+    }
+.main{
+	top: 30%;
+	left: 40%;
+	position: absolute;
+	}
+	#name{
 			
-			background-repeat: no-repeat;
-		}
-		.main{
+			border-radius: 20px;
+			background: blue;
+			padding: 5px 10px;
+			outline: none;
+			color: white;
+			margin-top: 25px;
+			margin-left: 25px;
+			border: none;
+		  }
+	.main{
 			top:45%;
 			left:50%;
 			position: absolute;
@@ -25,8 +40,8 @@ body {
 			font-size: 15;
 			color: blue;
 		}
-		button{
-			border-radius: 20px;
+		#button{
+			border-radius: 30px;
 			background: blue;
 			padding: 5px 10px;
 			outline: none;
@@ -35,7 +50,7 @@ body {
 			margin-left: 25px;
 			border: none;
 		}
-	#name{
+	#admin{
 		width: 200px;
 		border: none;
 		background: transparent;
@@ -44,3 +59,16 @@ body {
 		margin-bottom: 15px;
 		color: white;
 	}
+	#log{
+		border-radius: 30px;
+			background: blue;
+			padding: 5px 10px;
+			outline: none;
+			color: white;
+			margin-top: 25px;
+			margin-left: 25px;
+			border: none;
+
+	}
+
+
